@@ -1,6 +1,6 @@
  Hi 👋
  
-   I’m a junior Front-end developer.
+   I’m a Front-end developer.
 
 <!---
 SiminAnaraki/SiminAnaraki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
